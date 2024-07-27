@@ -4,7 +4,7 @@
 
 
 <p>Welcome to my page! </br> 
-I'm Mehariw amlake </br> Full stuck web Developer. </br>
+I'm Mehariw amlake </br> Full stuck Mobile App Developer. </br>
 
 
 Organizer <a href="https://www.holbertonschool.com/" target="_blank">@holbertonschool</a> </br>
